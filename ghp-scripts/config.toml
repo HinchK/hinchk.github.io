@@ -1,0 +1,4 @@
+publishDir = "../ghp-content/docs"
+baseURL = "https://hinchk.github.io/"
+languageCode = 'en-us'
+title = "hugo-theme-shell site"
